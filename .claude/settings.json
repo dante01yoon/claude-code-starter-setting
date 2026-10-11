@@ -43,9 +43,7 @@
   },
   "permissions": {
     "deny": [
-      "Edit(/data/**)",
-      "Write(/data/**)",
-      "NotebookEdit(/data/**)"
+      "Edit(/data/**)"
     ]
   }
 }
